@@ -83,9 +83,4 @@ The project is based on a publicly available dataset, containing samples with va
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For queries or support, contact [Your Name] at [Your Email].
 
