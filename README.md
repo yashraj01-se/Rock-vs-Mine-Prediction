@@ -1,7 +1,5 @@
 # Rock-vs-Mine-Prediction
 
-# Rock vs Mine Prediction Project
-
 ## Overview
 The Rock vs Mine Prediction project is an AI/ML solution designed to classify objects as either rocks or mines based on input data. This project utilizes machine learning techniques to analyze and predict the nature of the object, providing a robust tool for geological or defense-related applications.
 
